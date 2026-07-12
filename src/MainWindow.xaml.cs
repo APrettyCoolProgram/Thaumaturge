@@ -1,22 +1,27 @@
-﻿using System.Text;
+﻿// 260712_code
+// 260712_documentation
+
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
+using Thaumaturge.ThaumDatabase;
 
 namespace Thaumaturge;
-/// <summary>
-/// Interaction logic for MainWindow.xaml
-/// </summary>
+
+/// <summary>Interaction logic for MainWindow.xaml</summary>
 public partial class MainWindow : Window
 {
     public MainWindow()
     {
         InitializeComponent();
     }
+
+    private void RebuildDatabase()
+    {
+        Build.All();
+    }
+
+    /*
+     * Event Handlers
+     */
+
+    private void btnRebuildThaumaturgeDatabase_Click(object sender, RoutedEventArgs e) => RebuildDatabase();
 }
