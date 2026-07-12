@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Repository: Development</h1>
+  <h1>Thaumaturge: Development</h1>
 
 </div>
 
@@ -35,4 +35,4 @@ Please follow these steps:
 
 ***
 
-<sub>Last updated: 260619</sub>
+<sub>Last updated: 260712</sub>

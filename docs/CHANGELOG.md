@@ -1,11 +1,11 @@
 <div align="center">
 
-  <h1>Repository: Changelog</h1>
+  <h1>Thaumaturge: Changelog</h1>
 
 </div>
 
-## RYY.MM (YYYY-MM-DD)
+## R26.7 (2026-07-XX)
 
-> Please see the [release notes](rel/RXX-release-notes.md) for more details.
+> Please see the [release notes](release-notes/R26.7.md) for more details.
 
 ***

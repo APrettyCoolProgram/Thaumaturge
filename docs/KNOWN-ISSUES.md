@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>Repository: Known Issues</h1>
+  <h1>Thaumaturge: Known Issues</h1>
 
 </div>
 
-<sub>Last updated: 260619</sub>
+<sub>Last updated: 260712</sub>
